@@ -1,0 +1,44 @@
+[
+    {
+        "name": "rappasoft/laravel-helpers",
+        "version": "v1.0.1",
+        "version_normalized": "1.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/rappasoft/laravel-helpers.git",
+            "reference": "f2454f75ea582cc7b25df06b6d8076657344a190"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/rappasoft/laravel-helpers/zipball/f2454f75ea582cc7b25df06b6d8076657344a190",
+            "reference": "f2454f75ea582cc7b25df06b6d8076657344a190",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "time": "2018-01-27T20:45:31+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "src/helpers.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Anthony Rappa",
+                "email": "rappa819@gmail.com"
+            }
+        ],
+        "description": "Laravel Helpers for Non-Laravel Projects",
+        "keywords": [
+            "helpers",
+            "laravel"
+        ]
+    }
+]

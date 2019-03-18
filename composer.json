@@ -1,0 +1,16 @@
+{
+    "name": "vendor/code-challenge",
+    "description": "Description of project code_challenge.",
+    "authors": [
+        {
+            "name": "bdavid",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "rappasoft/laravel-helpers": "^1.0"
+    },
+    "autoload": {
+        "psr-4": { "Src\\" : "src/"}
+    }
+}
